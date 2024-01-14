@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="홈"/>
+
+    <item
+        android:id="@+id/checker"
+        android:enabled="true"
+        android:icon="@drawable/checker"
+        android:title="체커"/>
+
+    <item
+        android:id="@+id/search"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        android:title="검색"/>
+
+    <item
+        android:id="@+id/mypage"
+        android:enabled="true"
+        android:icon="@drawable/ic_person"
+        android:title="마이페이지"/>
+
+</menu>
